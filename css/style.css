@@ -102,6 +102,7 @@ nav ul li a:hover{
 }
 
 .cards{
+    flex-wrap: wrap;
     display: flex; 
     overflow: hidden;
 }
